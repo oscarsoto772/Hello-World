@@ -64,7 +64,7 @@ term
 
 
 # Codigo para leer las series - 
-# //Input file stream - leer del in
+### //Input file stream - leer del in
 
  ifstream lectura;
     string linea, dato;
