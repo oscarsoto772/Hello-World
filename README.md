@@ -64,10 +64,12 @@ term
 
 
 # Codigo para leer las series - 
-<<<<<<< Calificacion-100
-=======
-# //Input file stream - leer del in
->>>>>>> main
+
+# <<<<<<< Calificacion-100
+
+# >>>>>>> main
+
+### //Input file stream - leer del in
 
  Input file stream - leer del in
 
