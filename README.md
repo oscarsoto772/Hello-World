@@ -63,7 +63,7 @@ term
 - [ ] Contact the media
 
 
-#Codigo para leer las series - 
+# Codigo para leer las series - 
 //Input file stream - leer del in
 
  ifstream lectura;
