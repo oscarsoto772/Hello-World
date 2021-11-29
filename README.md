@@ -1,6 +1,6 @@
 # Hello-World
 
-# Oscar Adrian Soto Garza 
+# Oscar Adrian Soto Garza  100
 # A01283772
 # IID-5to
 # H1
@@ -63,10 +63,13 @@ term
 - [ ] Contact the media
 
 
-#Codigo para leer las series - 
-//Input file stream - leer del in
+# Codigo para leer las series - 
 
- ifstream lectura;
+ Input file stream - leer del in
+
+´´´c++
+
+   ifstream lectura;
     string linea, dato;
    
     lectura.open("Series.csv",ios::in);
@@ -106,3 +109,6 @@ term
     }
     return 0;
 }
+´´´
+
+
