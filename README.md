@@ -27,7 +27,7 @@
 
 [title](https://www.example.com)
 
-![alt text](image.jpg)
+![alt text](imagen.jpg.jpg)
 
 | Syntax | Description |
 | ----------- | ----------- |
